@@ -71,7 +71,7 @@ lotka-volterra-ai-simulator/
 
 **Installation:**
 ```bash
-git clone https://github.com/your-username/lotka-volterra-ai-simulator.git
+git clone https://github.com/ferdioaivision/lotka-volterra-ai-simulator.git
 cd lotka-volterra-ai-simulator
 pip install -r requirements.txt
 ```
