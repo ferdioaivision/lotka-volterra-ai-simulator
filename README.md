@@ -7,12 +7,17 @@ A scientifically rigorous simulator of prey-predator population dynamics using t
 This project demonstrates the intersection of **numerical analysis** (ODE solving) and **predictive modeling** (supervised regression).
 
 ---
+<img width="1166" height="439" alt="Capture d&#39;écran 2026-09-17 182606" src="https://github.com/user-attachments/assets/c5ea2ad1-b7ce-4591-b211-16254690d885" />
 
+<<<<<<< HEAD
+---
+=======
 [Dashboard Screenshot](https://private-user-images.githubusercontent.com/7692312481/477803757-f1a6bb80-d5c4-11f0-b9b2-9d8e5e2c1a2a.png)
 *Interactive Streamlit Dashboard - Live parameter exploration*
 
 ---
 
+>>>>>>> 2a50d95 (feat: add real data validation module and enriched README)
 ## 1. Mathematical Model
 
 The classical Lotka-Volterra model is defined by the system of autonomous ODEs:
@@ -87,7 +92,11 @@ lotka-volterra-ai-simulator/
 ## 5. Installation and Usage
 
 **Installation:**
+<<<<<<< HEAD
+```bash
+=======
 ```
+>>>>>>> 2a50d95 (feat: add real data validation module and enriched README)
 git clone https://github.com/ferdioaivision/lotka-volterra-ai-simulator.git
 cd lotka-volterra-ai-simulator
 pip install -r requirements.txt
@@ -134,6 +143,8 @@ This project is intentionally designed for **Undergraduate level** but with rese
 ### Scientific Importance
 - Foundational model in theoretical ecology, dynamical systems, mathematical biology
 - Demonstrates full workflow: model -> simulate -> observe with noise -> learn -> validate on real data
+
+<img width="1169" height="471" alt="Capture d&#39;écran 2026-09-17 182830" src="https://github.com/user-attachments/assets/d6ee30fb-a69e-430f-b87d-4eb85580ed9e" />
 
 ### Who Benefits From Cloning This Repo?
 
