@@ -25,6 +25,8 @@ dy/dt = delta * x * y - gamma * y
 
 The system exhibits periodic oscillations. Numerical integration is performed using `scipy.integrate.solve_ivp` with RK45.
 
+<img width="436" height="450" alt="newplot" src="https://github.com/user-attachments/assets/c8ee370e-dd82-4645-ae33-260354ca7f23" />
+
 ## 2. AI Extension
 
 **Objective:** Predict population at t+1 from population at t.
@@ -45,6 +47,8 @@ python src/real_data_validation.py
 ```
 
 This transforms the project from pure simulation to scientific case study.
+
+<img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/5b31c425-74da-4abe-95d3-65f62bdbb533" />
 
 ## 4. Project Structure
 
@@ -104,6 +108,8 @@ streamlit run app.py
   - RandomForest: R2 >0.95, MSE 10x lower - captures trend AND amplitude of oscillations, especially at turning points where prey peaks before predator.
   - **Interpretation:** This quantitative jump proves ecological interactions are inherently non-linear.
 - **Real Data Fit:** After optimization (alpha=0.18, beta=0.0002, delta=0.082, gamma=1.17), model reproduces ~10-year cycle and predator-prey phase lag (1-2 years). Remaining error due to no carrying capacity K and no seasonality.
+
+<img width="1336" height="575" alt="newplot (1)" src="https://github.com/user-attachments/assets/497ee043-1038-4241-85dc-2098d012a855" />
 
 ## 7. Why This Project Matters
 
