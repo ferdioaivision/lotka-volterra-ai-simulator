@@ -128,5 +128,3 @@ Proves 3 skills: Numerical Methods (RK45, tolerances), Data Engineering (physica
 ---
 
 **Author:** Kokouvi Ferdinand DJATA - L2 Mathematics, University of Lomé | GitHub: @ferdioaivision (FERDIO AI VISION)
-
-**For Open Doors Russia:** Developed as part of personal achievements in Applied Mathematics and AI.
