@@ -57,10 +57,6 @@ lotka-volterra-ai-simulator/
 ├── data/
 │   ├── population_data.csv
 │   └── lynx_hare_real.csv
-├── figures/
-│   ├── oscillations.png
-│   ├── phase_portrait.png
-│   └── real_vs_fitted.png
 ├── notebooks/
 │   └── main_analysis.ipynb
 ├── src/
