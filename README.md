@@ -10,7 +10,9 @@ A scientifically rigorous simulator of prey-predator population dynamics using t
 This project demonstrates the intersection of **numerical analysis** (ODE solving) and **predictive modeling** (supervised regression).
 
 ---
+<img width="1166" height="439" alt="Capture d&#39;écran 2026-09-17 182606" src="https://github.com/user-attachments/assets/c5ea2ad1-b7ce-4591-b211-16254690d885" />
 
+---
 ## 1. Mathematical Model
 
 The classical Lotka-Volterra model is defined by the system of autonomous ODEs:
@@ -109,6 +111,8 @@ The Lotka-Volterra model is the foundational model in:
 Understanding its numerical solution with RK45 and its limitations (no carrying capacity, no stochasticity) is a core competency for any applied mathematics curriculum.
 
 The AI extension shows a critical insight: **linear models fail to capture ecological interactions**. The jump from R2 ~0.75 (LinearRegression) to R2 >0.95 (RandomForest) is a quantitative proof that predator-prey dynamics are inherently non-linear.
+
+<img width="1169" height="471" alt="Capture d&#39;écran 2026-09-17 182830" src="https://github.com/user-attachments/assets/d6ee30fb-a69e-430f-b87d-4eb85580ed9e" />
 
 ### Who Benefits From Cloning This Repo?
 
