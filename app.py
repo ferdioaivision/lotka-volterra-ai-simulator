@@ -27,7 +27,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<p class="main-title">Lotka-Volterra Population Dynamics Simulator</p>', unsafe_allow_html=True)
-st.markdown("Applied Mathematics & AI - L2 Level Project | Numerical Simulation with RK45")
+st.markdown("Mathematics & ML Project | Numerical Simulation with RK45")
 
 # Sidebar - Parameters
 st.sidebar.header("Model Parameters")
