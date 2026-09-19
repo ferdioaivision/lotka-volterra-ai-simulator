@@ -1,6 +1,6 @@
 ### Mathematics and Machine Learning Project
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Complete-success)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Complete-success) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lotka-volterra-ai-simulator.streamlit.app/)
 
 A scientifically rigorous simulator of prey-predator population dynamics using the Lotka-Volterra differential equations, extended with machine learning for one-step-ahead prediction and validated on historical Hudson Bay data.
 
